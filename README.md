@@ -23,13 +23,14 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://vega.github.io/editor/#/url/vega-lite/N4IgJAzgxgFgpgWwIYgFwAIQwC7YA4SoD0RAbnAOZIB0FAltjAK4BG1dA9kdPMmZUgC0AGwZwyAZmoArCBwB2IADQAoENgbC4aYCvSZscAB7Y0IAKJaoGhegBMABgCMANmV7MAMwXYAynQAvbVQ7CRUAX1V9EAATJGwUDGBMJgAnYTRMHHxCElSkAHdaBmYWJgg4VKgfOHlsamqEIlhamJd2ogKOVIBrImQIQ1TmhXJU7CgIUkEpWQUQSI8QZF7MkBYkVPdo2uqYunkKTN19aOrhJgRFJI9Trzo4YRi1wfjtJQMATzxgzHkOBAHJAZW7oRZ3ECfY6g6KeB5PNbYDgJDIfdTfX4gACOTCQdQY8To5G2d0wSCMdAgx3UmkxSJR6HklxYlXQHE86FIyLgVLRFFSdGeGE8wIq4VB4NOICM0NJ90eQr+SAQ7y+PzW-0B8mByhp2C0ZhJEOgwN+oHyhzgvkMeEyTjskoh5MpmSZwmEEqiUvO3R0MPlCIwIG1Kt12AxZk1QJBd3F+nF4qAA](url) and ![Image](src)
+[link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
+[my website](https://vega.github.io/editor/#/url/vega-lite/N4IgJAzgxgFgpgWwIYgFwAIQwC7YA4SoD0RAbnAOZIB0FAltjAK4BG1dA9kdPMmZUgC0AGwZwyAZmoArCBwB2IADQAoENgbC4aYCvSZscAB7Y0IAKJaoGhegBMABgCMANmV7MAMwXYAynQAvbVQ7CRUAX1V9EAATJGwUDGBMJgAnYTRMHHxCElSkAHdaBmYWJgg4VKgfOHlsamqEIlhamJd2ogKOVIBrImQIQ1TmhXJU7CgIUkEpWQUQSI8QZF7MkBYkVPdo2uqYunkKTN19aOrhJgRFJI9Trzo4YRi1wfjtJQMATzxgzHkOBAHJAZW7oRZ3ECfY6g6KeB5PNbYDgJDIfdTfX4gACOTCQdQY8To5G2d0wSCMdAgx3UmkxSJR6HklxYlXQHE86FIyLgVLRFFSdGeGE8wIq4VB4NOICM0NJ90eQr+SAQ7y+PzW-0B8mByhp2C0ZhJEOgwN+oHyhzgvkMeEyTjskoh5MpmSZwmEEqiUvO3R0MPlCIwIG1Kt12AxZk1QJBd3F+nF4qAA)
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chend666/dchen3.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
