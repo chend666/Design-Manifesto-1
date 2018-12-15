@@ -57,9 +57,13 @@ In conclusion, the five main points above are what I think defines my design pro
 
 There are the links for the design I made in this course:
 [Design for others](https://medium.com/@gyang2518/group-17-design-documentation-fb06fab4fe7a)
+
 [Design for understanding](https://medium.com/@castiel199911/design-for-understanding-94c978a46b)
+
 [Design for tension](https://medium.com/@castiel199911/design-for-tension-a3daea7e3cca)
+
 [Design for wellbeing](https://medium.com/@castiel199911/design-for-wellbeing-8bb19f3dba26)
+
 [Design for another world](https://medium.com/@gyang2518/design-documentation-for-another-world-1d903c1efd4e)
 
 I also made a medium post with the same content as there: [go medium](https://medium.com/@castiel199911/design-manifesto-e7ea2ce871a3)
