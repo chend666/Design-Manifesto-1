@@ -26,45 +26,40 @@ Although the design are not able to satisfy a broad number of users, because eve
 
 I learnt this relatively useful principle at the very early period of this course, which helps a lot in my process of design. This concept has the most impact on the decision I made, and basically it lays the foundation of my design style. The first stage for [five design sheet](http://fds.design) is called brain storm, which is enlarge the design space of my possibilities. The key concept in the process of brainstorm it that we should care about the quantity instead of quality. We always work in a team, so we can sketch plenty of ideas on the paper that first come into our minds. Sometimes the idea is hard to meet the reality, then we have to filter those idea removing the duplicate or hard to achieve ideas. After we decide the final idea, we are going to combine them and find some advantage and disadvantage before moving on the realization design stage. For my experience on the process of design, I think the initial design is not really helpful as others, because sometimes it is hard to show our idea on the paper providing some misleading feedbacks. But It is does help a lot on organization of the idea, which enable us to create the prototype more efficiently, and success to transfer to the last sheet. The realization design is almost my favorite process, because I finally can see the production from our ideas. I am used to ask all the team member to test our prototype just after we finish it, which I believe it is useful because we can always find some mistake or something we feel not really comfortable, and change it before the user testing.
 
+The productions of our brainstorm:
+![image-4](https://cdn-images-1.medium.com/max/1000/1*2lc3v-qOW-nyRabiA4c91A.jpeg)
+
 ## Creating the prototype
 
 This process actually immediately follows the five design sheet, which belongs the process of realization design. In the process of design, this stage will cost the longest time working on it, because you will meet the conflict between your idealization and the reality. On the one hand, there is a limitations to this design process that I encountered. In my perspective, because the limitation of our ability, we can’t create what we really desire. For example, In our [design for tension](https://medium.com/@castiel199911/design-for-tension-a3daea7e3cca), the topic for chatbot is basically AI, which is supposed to allow the user to type any words and use algorithm we provide to analysis and match the relevant answer. However, the time and knowledge is limited, so we can’t let users enter anything they want. Therefore, I think the true capabilities of this technology constrained my team more than another, which we tried our best to make it as smart as possible at the end of the design. On the other hand, the video about [The curly  fry conundrum: Why social media “likes” say more than you might think](https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think#t-15090) enables me to have confidence to broad my mind during the process of design. Some idea we may killed at the beginning of creating the prototype, because we may think it is too hard to achieve. But technology has unlimited possibility, so just be confidence and explore in the ocean of technology.
+
+This is a picture for our final prototype:
+![image-1](https://cdn-images-1.medium.com/max/400/1*sOGWn1UqCAKeDG6VLBvYOQ.png)
 
 ## User Testing
 
 This is my favorite process of the whole 5 main points I chose, because I think this is what we really require to improve our design and connect the computer with human-being. This is the most valuable pieces of the process of design, and results always provide us some surprise phenomenon which is worth to analysis. Learning from the users’ feedback is the central part of the process of design, which the users will provide us a fresh approach of our design. However, sometimes if you don’t have correct and proper way to set up the test for users, you will get a misleading and confused feedback on your design.”[User Testing](https://cs3041-18b.github.io/docs/reading/User_Testing.pptx)“provides us some strategies and key concept on the user testing, which tells us how to get a usable result on the testing period. In our [design for tension](https://medium.com/@castiel199911/design-for-tension-a3daea7e3cca) project, we create a chatbot for those students who confuse about their major or why they have to take humanity. The idea of this project is to convince student to make them be willing to take humanity course by providing them with some information of the humanity course in their own college. We predict before the test, there will not be many people interested on the content we made, because we are in the engineering school, no one loves to take humanity course. On the demo day, we surprisingly find that almost every user wants to see the details of the course we provide for them, which we didn’t have at the first time. The users would like to have the link under each answer they get, so they are able to learn more information related to the major. This project enables me to understand the reference reading I learn in class better, which we, as the developer, should not predict the users’ thought. That may also be the reason why user testing is so important in the process of design, which makes me so exciting on the demo day.
 
+This is user testing our prototype:
+![image-2](https://cdn-images-1.medium.com/max/400/1*pxrktKTm7_NLQHtd8WCywA.jpeg)   ![image-3](https://cdn-images-1.medium.com/max/400/1*uv6Kr5LFn3_AFiZsv0lKng.jpeg)
+
 ## Improvement and keep doing
 
-I believe this is the most challenging part in the whole process of design, because in this stage, we always try our best to make improvements on the original design based on users’ feedback. At the end of the course, I still leave some aspects in each of my design requiring to be improved. After deeply learning the knowledge in human computer interactive field, I hope I will be able to finish it completely and satisfy more various users requirements. 
+I believe this is the most challenging part in the whole process of design, because in this stage, we always try our best to make improvements on the original design based on users’ feedback. At the end of the course, I still leave some aspects in each of my design requiring to be improved. After deeply learning the knowledge in human computer interactive field, I hope I will be able to finish it completely and satisfy more various users requirements. Moreover, We also make our each desing looks more pretty and attractive at the end of the design process.
+
+This is my favorite one in [Design for wellbeing](https://medium.com/@castiel199911/design-for-wellbeing-8bb19f3dba26) :
+
+![image-5](https://cdn-images-1.medium.com/max/1000/1*cGeEoGsuAGKGJP1dA3Mpgg.png)
 
 ## Conclusion
 
 In conclusion, the five main points above are what I think defines my design process, which will help you create a useful and creative design if you follow each point carefully. Also, I will introduce those key concept to someone who never takes human computer interactive. After this course, I have a clear sense in design process, which shows a new scenario of the design in the real world.
 
-# Header 1
-## Header 2
-### Header 3
+There are the links for the design I made in this course:
+[Design for others](https://medium.com/@gyang2518/group-17-design-documentation-fb06fab4fe7a)
+[Design for understanding](https://medium.com/@castiel199911/design-for-understanding-94c978a46b)
+[Design for tension](https://medium.com/@castiel199911/design-for-tension-a3daea7e3cca)
+[Design for wellbeing](https://medium.com/@castiel199911/design-for-wellbeing-8bb19f3dba26)
+[Design for another world](https://medium.com/@gyang2518/design-documentation-for-another-world-1d903c1efd4e)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-[my website](https://vega.github.io/editor/#/url/vega-lite/N4IgJAzgxgFgpgWwIYgFwAIQwC7YA4SoD0RAbnAOZIB0FAltjAK4BG1dA9kdPMmZUgC0AGwZwyAZmoArCBwB2IADQAoENgbC4aYCvSZscAB7Y0IAKJaoGhegBMABgCMANmV7MAMwXYAynQAvbVQ7CRUAX1V9EAATJGwUDGBMJgAnYTRMHHxCElSkAHdaBmYWJgg4VKgfOHlsamqEIlhamJd2ogKOVIBrImQIQ1TmhXJU7CgIUkEpWQUQSI8QZF7MkBYkVPdo2uqYunkKTN19aOrhJgRFJI9Trzo4YRi1wfjtJQMATzxgzHkOBAHJAZW7oRZ3ECfY6g6KeB5PNbYDgJDIfdTfX4gACOTCQdQY8To5G2d0wSCMdAgx3UmkxSJR6HklxYlXQHE86FIyLgVLRFFSdGeGE8wIq4VB4NOICM0NJ90eQr+SAQ7y+PzW-0B8mByhp2C0ZhJEOgwN+oHyhzgvkMeEyTjskoh5MpmSZwmEEqiUvO3R0MPlCIwIG1Kt12AxZk1QJBd3F+nF4qAA)
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chend666/dchen3.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-![Image](http://i41.tinypic.com/51vin8.jpg)
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I also made a medium post with the same content as there: [go medium](https://medium.com/@castiel199911/design-manifesto-e7ea2ce871a3)
